@@ -1,0 +1,21 @@
+C:\Users\Admin\Desktop\C#\Proxy\Proxy\bin\Debug\Proxy.exe.config
+C:\Users\Admin\Desktop\C#\Proxy\Proxy\bin\Debug\Proxy.exe
+C:\Users\Admin\Desktop\C#\Proxy\Proxy\bin\Debug\Proxy.pdb
+C:\Users\Admin\Desktop\C#\Proxy\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Proxy\Proxy\obj\Debug\Proxy.exe
+C:\Users\Admin\Desktop\C#\Proxy\Proxy\obj\Debug\Proxy.pdb
+C:\Users\Admin\Desktop\C#\Proxy\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ProxyServer\Proxy\Proxy\bin\Debug\Proxy.exe.config
+C:\Users\Admin\Desktop\ProxyServer\Proxy\Proxy\bin\Debug\Proxy.exe
+C:\Users\Admin\Desktop\ProxyServer\Proxy\Proxy\bin\Debug\Proxy.pdb
+C:\Users\Admin\Desktop\ProxyServer\Proxy\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ProxyServer\Proxy\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ProxyServer\Proxy\Proxy\obj\Debug\Proxy.exe
+C:\Users\Admin\Desktop\ProxyServer\Proxy\Proxy\obj\Debug\Proxy.pdb
+E:\Рабочий стол\ProxyServer\Proxy\Proxy\bin\Debug\Proxy.exe.config
+E:\Рабочий стол\ProxyServer\Proxy\Proxy\bin\Debug\Proxy.exe
+E:\Рабочий стол\ProxyServer\Proxy\Proxy\bin\Debug\Proxy.pdb
+E:\Рабочий стол\ProxyServer\Proxy\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+E:\Рабочий стол\ProxyServer\Proxy\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+E:\Рабочий стол\ProxyServer\Proxy\Proxy\obj\Debug\Proxy.exe
+E:\Рабочий стол\ProxyServer\Proxy\Proxy\obj\Debug\Proxy.pdb
